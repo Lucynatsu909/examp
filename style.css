@@ -50,3 +50,13 @@ nav ul li a{
     left: 50%;
     transform: translateX(-50%);
 }   
+.contact{
+    margin: 0;
+    padding:0;
+}
+.contact p{
+    position: absolute;
+    font-size: 20px;
+    margin: 0;
+    padding: 50px;
+}  
