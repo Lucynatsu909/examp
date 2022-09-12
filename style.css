@@ -2,14 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
 }
 
  .header{
        width: 100%;
-       height: 100vh;
-       padding: 0 10%;
-       background: #f7efef;
+       padding: 0 5%;
+       background: #cddbcc;
  }
  nav{
      width: 100%;
@@ -28,12 +26,13 @@ nav ul li a{
     color: #3f51b5;
 }   
 .text-area{
-    margin-top: 130px;
-    max-width: 600px;
+    margin-top: 100px;
+    max-width: 100px;
+    background: #f7efef;
 }
 .text-area h3{
-    font-size: 45px;
-    margin-botton: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
 }  
 .resource{
     margin: 0;
@@ -42,7 +41,7 @@ nav ul li a{
 }   
 .resource h3{
     position: absolute;
-    font-size: 3rem;
+    font-size: 1rem;
     margin: 0;
     padding: 0;
     top: 50%;
