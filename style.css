@@ -8,7 +8,7 @@
  .header{
        width: 100%;
        padding: 0 5%;
-       background: #0a8452;
+       background: #77d2e7;
  }
  nav{
      width: 100%;
@@ -16,17 +16,17 @@
      align-items: center;
      justify-content: space-between;
      padding: 20px 0;
-      background: #0a8452;
+      background: #77d2e7;
  }
 nav ul li{
      display: inline-block;
      list-style: none;
      margin: 10px 30px;
-     background: #0a8452;
+     background: #77d2e72;
 }
 nav ul li a{
     text-decoration: none;
-    color: #05186d;
+    color: #000000;
 }   
 .desc{
     margin-top: 130px;
@@ -35,7 +35,6 @@ nav ul li a{
 .desc p{
     font-size: 30px;
     font-family: sans-serif;
-    background: #f7efef;
 }  
 .resource{
     margin: 0;
