@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #f7efef;
+     background: #0a8452;
 }
 
  .header{
        width: 100%;
        padding: 0 5%;
-       background: #cddbcc;
+       background: #0a8452;
  }
  nav{
      width: 100%;
@@ -16,15 +16,17 @@
      align-items: center;
      justify-content: space-between;
      padding: 20px 0;
+      background: #0a8452;
  }
 nav ul li{
      display: inline-block;
      list-style: none;
      margin: 10px 30px;
+     background: #0a8452;
 }
 nav ul li a{
     text-decoration: none;
-    color: #3f51b5;
+    color: #05186d;
 }   
 .text-area{
     margin-top: 130px;
