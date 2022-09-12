@@ -28,8 +28,11 @@ nav ul li a{
     text-decoration: none;
     color: #05186d;
 }   
-
-p{
+.desc{
+    margin-top: 130px;
+    max-width: 600px;
+}    
+.desc p{
     font-size: 30px;
     font-family: sans-serif;
     background: #f7efef;
