@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background: #f7efef;
 }
 
  .header{
@@ -26,9 +27,8 @@ nav ul li a{
     color: #3f51b5;
 }   
 .text-area{
-    margin-top: 100px;
-    max-width: 100px;
-    background: #f7efef;
+    margin-top: 130px;
+    max-width: 600px;
 }
 .text-area h3{
     font-size: 20px;
