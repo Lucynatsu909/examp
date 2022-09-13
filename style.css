@@ -74,3 +74,14 @@ nav ul li a{
     margin: 0;
     padding: 50px;
 }  
+.scan{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.scan embed{
+       width: 900px;
+       height: 720px;
+       margin-left:30px:
+}
